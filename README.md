@@ -9,6 +9,7 @@ Voy a crear una tabla para ver cómo varía el resultado según los datos del d�
 | Día de testeo | Cese al crecimiento de infectados|
 | ------------- | ------------- |
 | 24 de Marzo  | 3 de Mayo, +-2000 infecteds|
+| 25 de Marzo | ... |
 | 26 de Marzo | ... |
 | 27 de Marzo | ... |
 | 28 de Marzo | ... |
