@@ -2,6 +2,8 @@
 
 ### Se usó un modelo logístico para predecir el día final que va a frenar de crecer el número de infectados según los reportes oficiales de Argentina
 
+### ACLARACIÓN: este modelo no tiene en cuenta los fallecidos, ni los recuperados.
+
 Voy a crear una tabla para ver cómo varía el resultado según los datos del día.
 
 | Día de testeo | Cese al crecimiento de infectados|
