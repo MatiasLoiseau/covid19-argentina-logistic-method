@@ -6,7 +6,7 @@
 
 Voy a crear una tabla para ver cómo varía el resultado según los datos del día.
 
-| Día de testeo | Cese al crecimiento de infectados|
+| Día de testeo | Cese del crecimiento de infectados|
 | ------------- | ------------- |
 | 24 de Marzo  | 3 de Mayo, +-2000 infecteds|
 | 25 de Marzo | ... |
