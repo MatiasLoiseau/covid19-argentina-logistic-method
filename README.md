@@ -6,12 +6,12 @@
 
 Voy a crear una tabla para ver cómo varía el resultado según los datos del día.
 
-| Día de testeo | Cese del crecimiento de infectados|
-| ------------- | ------------- |
-| 23 de Marzo  | 25 de Abril, 1237 (± 662)|
-| 24 de Marzo  | 2 de Mayo, 1892 (± 1054)|
-| 25 de Marzo | 18 de Junio, 7362372 (± 13060409469)|
-| 26 de Marzo | 9 de Mayo, 3921 (± 2261) |
+| Día de testeo | Cese del crecimiento de infectados| Total de infectados hasta esa fecha |
+| ------------- | ------------- | ------------- |
+| 23 de Marzo  | 25 de Abril | 1237 (± 662)|
+| 24 de Marzo  | 2 de Mayo | 1892 (± 1054)|
+| 25 de Marzo | 18 de Junio | 7362372 (± 13060409469)|
+| 26 de Marzo | 9 de Mayo | 3921 (± 2261) |
 | 27 de Marzo | ... |
 | 28 de Marzo | ... |
 | 29 de Marzo | ... |
