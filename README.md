@@ -12,12 +12,12 @@ Voy a crear una tabla para ver cómo varía el resultado según los datos del d�
 | 24 de Marzo  | 2 de Mayo | 1892 (± 1054)|
 | 25 de Marzo | 18 de Junio | 7362372 (± 13060409469)|
 | 26 de Marzo | 9 de Mayo | 3921 (± 2261) |
-| 27 de Marzo | ... |
-| 28 de Marzo | ... |
-| 29 de Marzo | ... |
-| 30 de Marzo | ... |
-| 31 de Marzo | ... |
-| 1 de Abril | ... |
+| 27 de Marzo | 2 de Mayo | 2280 (± 481) |
+| 28 de Marzo | ... | ... |
+| 29 de Marzo | ... | ... |
+| 30 de Marzo | ... | ... |
+| 31 de Marzo | ... | ... |
+| 1 de Abril | ... | ... |
 
 El dataset lo cree en base a los datos diarios oficiales (fuente: https://www.argentina.gob.ar/coronavirus/informe-diario)
 
