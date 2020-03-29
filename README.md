@@ -13,7 +13,7 @@ Voy a crear una tabla para ver cómo varía el resultado según los datos del d�
 | 25 de Marzo | 18 de Junio | 7362372 (± 13060409469)|
 | 26 de Marzo | 9 de Mayo | 3921 (± 2261) |
 | 27 de Marzo | 2 de Mayo | 2280 (± 481) |
-| 28 de Marzo | ... | ... |
+| 28 de Marzo | 28 de Abril | 1412 (± 145) |
 | 29 de Marzo | ... | ... |
 | 30 de Marzo | ... | ... |
 | 31 de Marzo | ... | ... |
