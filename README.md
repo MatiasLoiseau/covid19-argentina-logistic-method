@@ -16,7 +16,7 @@ Voy a crear una tabla para ver cómo varía el resultado según los datos del d�
 | 28 de Marzo | 28 de Abril | 1412 (± 145) |
 | 29 de Marzo | 21 de Abril | 1250 (± 78) |
 | 30 de Marzo | 26 de Abril | 1431 (± 89) |
-| 31 de Marzo | ... | ... |
+| 31 de Marzo | 25 de Abril | 1512 (± 76) |
 | 1 de Abril | ... | ... |
 
 El dataset lo cree en base a los datos diarios oficiales (fuente: https://www.argentina.gob.ar/coronavirus/informe-diario)
