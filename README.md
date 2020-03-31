@@ -15,7 +15,7 @@ Voy a crear una tabla para ver cómo varía el resultado según los datos del d�
 | 27 de Marzo | 2 de Mayo | 2280 (± 481) |
 | 28 de Marzo | 28 de Abril | 1412 (± 145) |
 | 29 de Marzo | 21 de Abril | 1250 (± 78) |
-| 30 de Marzo | ... | ... |
+| 30 de Marzo | 26 de Abril | 1431 (± 89) |
 | 31 de Marzo | ... | ... |
 | 1 de Abril | ... | ... |
 
