@@ -8,16 +8,16 @@ Voy a crear una tabla para ver cómo varía el resultado según los datos del d�
 
 | Día de testeo | Cese del crecimiento de infectados| Total de infectados hasta esa fecha |
 | ------------- | ------------- | ------------- |
-| 23 de Marzo  | 25 de Abril | 1237 (± 662)|
-| 24 de Marzo  | 2 de Mayo | 1892 (± 1054)|
-| 25 de Marzo | 18 de Junio | 7362372 (± 13060409469)|
-| 26 de Marzo | 9 de Mayo | 3921 (± 2261) |
-| 27 de Marzo | 2 de Mayo | 2280 (± 481) |
-| 28 de Marzo | 28 de Abril | 1412 (± 145) |
-| 29 de Marzo | 21 de Abril | 1250 (± 78) |
-| 30 de Marzo | 26 de Abril | 1431 (± 89) |
-| 31 de Marzo | 25 de Abril | 1512 (± 76) |
-| 1 de Abril | ... | ... |
+| 23 de Marzo  | 25 de abril | 1237 (± 662)|
+| 24 de Marzo  | 2 de mayo | 1892 (± 1054)|
+| 25 de Marzo | 18 de junio | 7362372 (± 13060409469)|
+| 26 de Marzo | 9 de mayo | 3921 (± 2261) |
+| 27 de Marzo | 2 de mayo | 2280 (± 481) |
+| 28 de Marzo | 28 de abril | 1412 (± 145) |
+| 29 de Marzo | 21 de abril | 1250 (± 78) |
+| 30 de Marzo | 26 de abril | 1431 (± 89) |
+| 31 de Marzo | 25 de abril | 1512 (± 76) |
+| 1 de Abril | 26 de abril | 1535 (± 58) |
 
 El dataset lo cree en base a los datos diarios oficiales (fuente: https://www.argentina.gob.ar/coronavirus/informe-diario)
 
