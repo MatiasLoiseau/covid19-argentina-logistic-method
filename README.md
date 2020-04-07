@@ -19,6 +19,11 @@ Voy a crear una tabla para ver cómo varía el resultado según los datos del d�
 | 31 de Marzo | 25 de abril | 1512 (± 76) |
 | 1 de Abril | 26 de abril | 1535 (± 58) |
 | 2 de Abril | 28 de abril | 1666 (± 62) |
+| 3 de Abril | 2 de mayo | 1745 (± 56) |
+| 4 de Abril | 7 de mayo | 1822 (± 52) |
+| 5 de Abril | 3 de mayo | 1907 (± 51) |
+| 6 de Abril | 3 de mayo | 1957 (± 45) |
+| 7 de Abril | ... | ... |
 
 El dataset lo cree en base a los datos diarios oficiales (fuente: https://www.argentina.gob.ar/coronavirus/informe-diario)
 
