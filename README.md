@@ -30,6 +30,12 @@ Voy a crear una tabla para ver cómo varía el resultado según los datos del d�
 | 11 de Abril | 17 de mayo | 2323 (± 54) |
 | 12 de Abril | 16 de mayo | 2500 (± 58) |
 | 13 de Abril | 17 de mayo | 2632 (± 69) |
+| 14 de Abril | 17 de mayo | 2632 (± 69) |
+| 15 de Abril | 21 de mayo | 2780 (± 81) |
+| 16 de Abril | 23 de mayo | 2917 (± 89) |
+| 17 de Abril | 26 de mayo | 3037 (± 93) |
+| 18 de Abril | 30 de mayo | 3138 (± 93) |
+| 19 de Abril | 30 de mayo | 3238 (± 93) |
 
 El dataset lo cree en base a los datos diarios oficiales (fuente: https://www.argentina.gob.ar/coronavirus/informe-diario)
 
